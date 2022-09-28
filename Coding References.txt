@@ -1,0 +1,10 @@
+MathWorks
+
+1. https://www.mathworks.com/help/images/ref/adapthisteq.html
+2. https://www.mathworks.com/videos/deep-learning-demystified-system-design-and-implementation-1510587290588.html
+3. https://www.mathworks.com/help/vision/ug/semantic-segmentation-using-deep-learning.html
+4. https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/64932/versions/1/previews/DeepLearningDemos/Demo1_SemanticSegmentation/HelperFunctions.m/index.html
+
+YouTube
+
+1. https://www.youtube.com/watch?v=LxCnWp08JUU 
